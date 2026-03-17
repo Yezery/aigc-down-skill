@@ -85,3 +85,6 @@
 ## 许可证
 
 MIT License
+
+## 致谢
+[Humanizer 中文学术版本](https://github.com/cangtianhuang/humanizer-academic-zh)
