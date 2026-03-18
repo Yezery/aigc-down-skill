@@ -87,4 +87,5 @@
 MIT License
 
 ## 致谢
-[Humanizer 中文学术版本](https://github.com/cangtianhuang/humanizer-academic-zh)
+redbaronyyyyy-eng：[Humanizer 中文学术版本](https://github.com/redbaronyyyyy-eng/humanizer-zh-academic)
+
